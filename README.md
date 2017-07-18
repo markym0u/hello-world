@@ -1,2 +1,2 @@
 # hello-world
-First git repository
+This is Mark Polimus. Have not coded in quite awhile and getting back on the horse!
